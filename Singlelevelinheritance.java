@@ -1,4 +1,4 @@
-package venkat;
+package varsha;
 class superclass{
 	void hercules() {
 		System.out.println("it is an hercules");
